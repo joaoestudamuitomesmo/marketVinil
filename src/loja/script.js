@@ -57,3 +57,26 @@ document.addEventListener("DOMContentLoaded", function (){
     })
 })
 
+const lenis = new Lenis({
+    duration: 1.2,          
+    easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), 
+    orientation: 'vertical', 
+    gestureOrientation: 'vertical',
+    smoothWheel: true,
+    autoRaf: true           
+});
+
+lenis.on('scroll', (e) => {
+    const head = document.getElementById("header");
+    if(e.scroll < 1000){
+        const alpha = 1 - (e.scroll / 1000)
+        head.style.backgroundColor = `rgba(58, 60, 82, ${alpha})`;
+        head.style.boxShadow = `${(1 - alpha) * 4}px ${(1 - alpha) * 10}px 0px rgb(0,0,0)`;
+        head.color = `$rgb(${alpha},${alpha},${alpha})`
+    }
+    else{
+        head.style.backgroundColor = `rgba(7, 65, 14, 0.84)`;
+        head.style.boxShadow = `4px 10px 0px rgb(0,0,0)`;
+        head.color = `black`;
+    }
+});
