@@ -2,7 +2,151 @@
     {
         "id": 1,
         "desc": "DTTG",
-        "imagem": "../../public/freddie_mercury.jpg",
-        "sal": "35000.00"
+        "imagem": "../../public/vinil/dttg.jpg",
+        "valor": "4610,16"
+    },
+    {
+        "id": 2,
+        "desc": "IGOR",
+        "imagem": "../../public/vinil/igor.jpg",
+        "valor": "3714,98"
+    },
+    {
+        "id": 3,
+        "desc": "WOLF",
+        "imagem": "../../public/vinil/wolf.jpg",
+        "valor": "2014,15"
+    },
+    {
+        "id": 4,
+        "desc": "CMIL",
+        "imagem": "../../public/vinil/cmil.jpg",
+        "valor": "1168,61"
+    },
+    {
+        "id": 5,
+        "desc": "CHORM",
+        "imagem": "../../public/vinil/chorm.jpg",
+        "valor": "1887,76"
+    },
+    {
+        "id": 6,
+        "desc": "BOMB",
+        "imagem": "../../public/vinil/bomb.jpg",
+        "valor": "1663,02"
+    },
+    {
+        "id": 7,
+        "desc": "FLBY",
+        "imagem": "../../public/vinil/flby.jpg",
+        "valor": "1348,40"
+    },
+    {
+        "id": 8,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 9,
+        "desc": "NCLF",
+        "imagem": "../../public/vinil/nclf.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 10,
+        "desc": "LUZ",
+        "imagem": "../../public/vinil/luz.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 11,
+        "desc": "QUEEN II",
+        "imagem": "../../public/vinil/queen2.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 12,
+        "desc": "AND.. JUSTICE FOR ALL",
+        "imagem": "../../public/vinil/ajfa.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 13,
+        "desc": "Operation Doomsday",
+        "imagem": "../../public/vinil/op.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 14,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 15,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 16,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 17,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 18,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 19,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 20,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 21,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 22,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 23,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 24,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 25,
+        "desc": "100%",
+        "imagem": "../../public/vinil/100%.jpg",
+        "valor": "0"
     }
 ]
