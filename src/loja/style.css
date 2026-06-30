@@ -250,3 +250,11 @@ h1, h2 {
     transform: rotate(-2deg) translateY(-2px);
     box-shadow: 7px 7px 0px #000;
 }
+
+.logo{
+    transform: rotate(-2deg);
+}
+
+.carrinho{
+    filter: invert(1);
+}

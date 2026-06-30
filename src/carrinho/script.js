@@ -8,7 +8,7 @@ $(document).ready(function(){
         let totalPreco = 0
 
         $.each(carrinho, function(index, item){
-            const listItem = $("<li>").text(`${item.desc} | Preço: $${item.sal}`)
+            const listItem = $("<li>").text(`${item.desc} | Preço: $${item.valor}`)
 
             const removeButton = $("<button>").text("❌").css("margin-left", "10px").click(function(){
                 removerItem(index)
@@ -17,7 +17,7 @@ $(document).ready(function(){
             listItem.append(removeButton)
             listElement.append(listItem)
 
-            totalPreco += parseFloat(item.sal)
+            totalPreco += parseFloat(item.valor)
         })
 
         totalElement.text(`Total: $${totalPreco}`)
