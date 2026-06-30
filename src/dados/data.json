@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "desc": "DTTG",
+        "desc": "Don't Tap the Glass",
         "imagem": "../../public/vinil/dttg.jpg",
         "valor": "4610,16"
     },
@@ -19,43 +19,43 @@
     },
     {
         "id": 4,
-        "desc": "CMIL",
+        "desc": "Call Me If You Get Lost",
         "imagem": "../../public/vinil/cmil.jpg",
         "valor": "1168,61"
     },
     {
         "id": 5,
-        "desc": "CHORM",
+        "desc": "Chromakopia",
         "imagem": "../../public/vinil/chorm.jpg",
         "valor": "1887,76"
     },
     {
         "id": 6,
-        "desc": "BOMB",
+        "desc": "Cherry Bomb",
         "imagem": "../../public/vinil/bomb.jpg",
         "valor": "1663,02"
     },
     {
         "id": 7,
-        "desc": "FLBY",
+        "desc": "Flower Boy",
         "imagem": "../../public/vinil/flby.jpg",
         "valor": "1348,40"
     },
     {
         "id": 8,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "slipknot ",
+        "imagem": "../../public/vinil/slpk.jpg",
         "valor": "0"
     },
     {
         "id": 9,
-        "desc": "NCLF",
+        "desc": "Nobody Can Live Forever",
         "imagem": "../../public/vinil/nclf.jpg",
         "valor": "0"
     },
     {
         "id": 10,
-        "desc": "LUZ",
+        "desc": "DJavan LUZ",
         "imagem": "../../public/vinil/luz.jpg",
         "valor": "0"
     },
@@ -79,74 +79,74 @@
     },
     {
         "id": 14,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Mm..Food",
+        "imagem": "../../public/vinil/mfo.jpg",
         "valor": "0"
     },
     {
         "id": 15,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Madvillain",
+        "imagem": "../../public/vinil/mdv.jpg",
         "valor": "0"
     },
     {
         "id": 16,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "DAMN",
+        "imagem": "../../public/vinil/damn.jpg",
         "valor": "0"
     },
     {
         "id": 17,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Mr. Morale & the Big Steppers",
+        "imagem": "../../public/vinil/morale.jpg",
         "valor": "0"
     },
     {
         "id": 18,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Good Kid, M.A.A.D City",
+        "imagem": "../../public/vinil/gkmcty.jpg",
         "valor": "0"
     },
     {
         "id": 19,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Good Kid, M.A.A.D City",
+        "imagem": "../../public/vinil/gkmcty2.jpg",
         "valor": "0"
     },
     {
         "id": 20,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Graduation",
+        "imagem": "../../public/vinil/grda.jpg",
         "valor": "0"
     },
     {
         "id": 21,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "My Beautiful Dark Twisted Fantasy",
+        "imagem": "../../public/vinil/fnsy.jpg",
         "valor": "0"
     },
     {
         "id": 22,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Máquina do Tempo",
+        "imagem": "../../public/vinil/mdtmp.jpg",
         "valor": "0"
     },
     {
         "id": 23,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "The Dark Side of the Moon",
+        "imagem": "../../public/vinil/tdsm.jpg",
         "valor": "0"
     },
     {
         "id": 24,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "paranoid",
+        "imagem": "../../public/vinil/par.jpg",
         "valor": "0"
     },
     {
         "id": 25,
-        "desc": "100%",
-        "imagem": "../../public/vinil/100%.jpg",
+        "desc": "Abbey Road",
+        "imagem": "../../public/vinil/abby.jpg",
         "valor": "0"
     }
 ]
